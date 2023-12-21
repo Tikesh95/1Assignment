@@ -1,0 +1,29 @@
+1.Ans-A computer is a programmable electronic device that processes data and performs tasks according to a set of instructions called a program. It consists of hardware and software components that work together to execute various functions.
+
+2.Ans-RAM, or Random Access Memory, is a type of computer memory that is used to store data and machine code currently being used and processed by a computer. Unlike long-term storage devices such as hard drives or SSDs, RAM is volatile memory, meaning that it loses its contents when the power is turned off.
+
+3.Ans-Data stored in a computer refers to information that is saved and can be retrieved for later use. There are two main types of data stored in a computer:
+    1.primary storage ram
+    2.secondary storage(hard drive,ssdetc)
+	
+4.Ans-
+The input device used to type text and numbers on a document in a computer system is a keyboard. A keyboard is a peripheral device that consists of a set of keys or buttons, each representing a specific character, letter, number, or function. Users press these keys to input data into the computer.
+
+
+5.Ans-Output devices are components of a computer system that display or present information to the user. They convey the results of data processing or the output of programs in a human-readable form. Here are some common output devices:
+    1.monitor
+    2.printer
+    3.speakers
+    4.headphones
+
+6.Ans-The input device that allows a user to move the cursor or pointer on the screen is the mouse. A mouse typically has two buttons (left and right) and a scroll wheel. By moving the physical mouse on a flat surface, the cursor on the computer screen moves in a corresponding manner. The left and right buttons on the mouse are used for clicking, while the scroll wheel can be used for scrolling through documents or web pages.
+
+
+7.Ans-The language directly understood by a computer without translation is known as machine language or binary code. Machine language is the lowest-level programming language that consists of binary code, which is a series of 0s and 1s. Each combination of 0s and 1s represents a specific instruction that the computer's central processing unit (CPU) can execute.
+
+8.Ans-Input devices are hardware components or peripherals that enable users to interact with a computer or other electronic devices by providing input. These devices allow users to input data, commands, or signals into the computer system. Here are some common examples of input devices:
+    1.keyboard
+    2.mouse
+    3.touchpad
+    4.scanner
+    5.microphone	
